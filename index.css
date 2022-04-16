@@ -1,4 +1,6 @@
-body {
-  background-image:url ("壁紙.jpg");
-  background-size: cover;
+.image-1{
+    background-image:url(背景.jpg);             /* 画像のURLを指定       */
+    background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */              
+    width:auto;                                   /* 横幅のサイズを指定    */
+    height:400pX;                                 /* 縦幅のサイズを指定    */
 }
