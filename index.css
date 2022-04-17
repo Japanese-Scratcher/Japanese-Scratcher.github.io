@@ -1,6 +1,11 @@
 .image-1{
-    background-image:　url(壁紙.jpg);             /* 画像のURLを指定       */
-    background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */              
-    width:auto;                                   /* 横幅のサイズを指定    */
-    height:400pX;                                 /* 縦幅のサイズを指定    */
+      text-align:  center;    /* 文字中央寄せ */
+    padding:  150px;        /* 余白指定 */
+    border: solid px;      /* 枠線指定 */
+
+  
+  background-image: url(https://raw.githubusercontent.com/Japanese-Scratcher/Japanese-Scratcher.github.io/main/%E5%A3%81%E7%B4%99.jpg);     /* 背景画像指定 */
+    background-repeat:  no-repeat;          /* 背景の繰り返し設定 */
+      background-size: cover;
+
 }
